@@ -1,0 +1,26 @@
+.news {
+    background-color: rgb(64, 64, 64);
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 1px 10px white;
+
+}
+.news h2{
+   
+   font-size: 20px;
+   margin: 20px;
+   text-align: start;
+
+}
+.news p{
+    margin: 20px;
+    font-size: 12px;
+    text-align: start;
+}
+.news a{
+    background-color: rgb(55, 55, 55);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
