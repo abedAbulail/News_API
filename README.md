@@ -1,3 +1,10 @@
+News API (React Web-application)
+
+An Example of news API for developing a News webSite
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
